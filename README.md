@@ -4,9 +4,9 @@
 
 <h2>🌟 Skills</h2>
 <ul>
-  <li>Programming Languages: Python, JavaScript, C++</li>
+  <li>Programming Languages: Python, JavaScript, C,java</li>
   <li>Web Development: HTML, CSS, React, Flask</li>
-  <li>Database Management: MySQL, PostgreSQL</li>
+  <li>Database Management: MySQL, PostgreSQL,Mongo</li>
   <li>Tools & Platforms: Git, VS Code, Docker</li>
 </ul>
 
@@ -22,7 +22,7 @@
 
 <h2>📫 Contact Me</h2>
 <ul>
-  <li>Email: <a href="mailto:your-email@example.com">nachiketshinde2004@gmail.com </a></li>
+  <li>Email: <a href="nachiketshinde2004@gmail.com">nachiketshinde2004@gmail.com </a></li>
   <li>GitHub: <a href="https://github.com/Nachiket858">Nachiket858</a></li>
 </ul>
 
