@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 <h2>About Me</h2>
-<p>Hi there! I'm Nachiket, a passionate software developer and tech enthusiast. I love creating innovative solutions and working on exciting projects. I'm currently exploring the world of AI and Machine Learning, and I enjoy contributing to open-source projects.</p>
+<p>Hi there! I'm Nachiket, a passionate software developer and tech enthusiast. I love creating innovative solutions and working on exciting projects. I'm currently exploring the world of AI and Machine Learning.</p>
 
 <h2>🌟 Skills</h2>
 <ul>
