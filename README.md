@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nachiket-shinde2004">LinkedIn</a> ·
+  <a href="https://nachiket.kodeneurons.tech">Portfolio</a> ·
   <a href="https://www.kodeneurons.tech">Website</a> ·
   <a href="https://www.youtube.com/@KodeNeurons">YouTube</a> ·
   <a href="mailto:nachiketshinde2004@gmail.com">Email</a>
