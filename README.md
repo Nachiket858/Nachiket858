@@ -84,7 +84,7 @@ Content themes:
 
 📧 **Email** — nachiketshinde2004@gmail.com  
 🔗 **LinkedIn** — https://linkedin.com/in/nachiket-shinde2004  
-🌐 **Portfolio** — https://nachiketshinde.netlify.app  
+🌐 **Portfolio** — https://nachiket.kodeneurons.tech
 
 ---
 
