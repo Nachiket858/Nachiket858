@@ -14,7 +14,12 @@
 
 </div>
 
-<img align="right" alt="AI Automation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
+
+<picture>
+  <source media="(min-width: 1024px)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" align="right">
+  <img src="" alt="" width="0">
+</picture>
 
 ### 👨‍💻 About Me
 
@@ -24,8 +29,7 @@
 🚀 **LLM Systems Builder**  
 🏢 **Co-Founder** @ KodeNeurons  
 
-I specialize in building **production-ready AI systems** that automate workflows, deploy intelligent agents, and scale reliably.  
-My work focuses on **impact first**, not demos.
+I specialize in building **production-ready AI systems** that automate workflows, deploy intelligent agents, and scale reliably. My work focuses on **impact first**, not demos.
 
 ```python
 class Nachiket:
@@ -55,7 +59,7 @@ class Nachiket:
 nachiket = Nachiket()
 ```
 
-<br clear="right"/>
+<br clear="all"/>
 
 ---
 
@@ -74,45 +78,62 @@ nachiket = Nachiket()
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 🛠️ Technology Stack
 
-<div align="center">
+### 🤖 AI & Machine Learning
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</p>
 
-### LLM & AI Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### 💬 LLM & AI Frameworks
 
-### Backend & Databases
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+</p>
 
-### Automation & DevOps
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ Backend & Databases
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-</div>
+### 🔧 Automation & DevOps
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 🧠 What I Build
 
@@ -148,42 +169,39 @@ graph LR
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
-<br><b>AI Automation</b>
-<br>Workflow orchestration
-<br>Intelligent agents
-<br>Event-driven systems
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" />
-<br><b>LLM Systems</b>
-<br>Chat interfaces
-<br>RAG pipelines
-<br>Agent frameworks
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
-<br><b>ML Engineering</b>
-<br>Model training
-<br>Optimization
-<br>Deployment
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
-<br><b>Backend Systems</b>
-<br>Scalable APIs
-<br>Database design
-<br>Authentication
-</td>
-</tr>
-</table>
+<details open>
+<summary><h3>🎯 Core Capabilities</h3></summary>
+
+<br>
+
+**🤖 AI Automation**
+- Workflow orchestration
+- Intelligent agents
+- Event-driven systems
+
+**💬 LLM Systems**
+- Chat interfaces
+- RAG pipelines
+- Agent frameworks
+
+**🧠 ML Engineering**
+- Model training
+- Optimization
+- Deployment
+
+**⚙️ Backend Systems**
+- Scalable APIs
+- Database design
+- Authentication
+
+</details>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 🚀 Entrepreneurship & Impact
 
@@ -194,56 +212,37 @@ graph LR
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" />
-<br><b>AI Products</b>
-<br>Building AI-powered<br>automation products
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" />
-<br><b>LLM Systems</b>
-<br>Designing production-grade<br>LLM applications
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
-<br><b>Business Scale</b>
-<br>Helping businesses scale<br>with intelligent workflows
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
-<br><b>Community</b>
-<br>Sharing real-world<br>AI knowledge
-</td>
-</tr>
-</table>
+<details open>
+<summary><h3>💼 What We Do</h3></summary>
+
+<br>
+
+- 🤖 **AI Products** - Building AI-powered automation products
+- 🧠 **LLM Systems** - Designing production-grade LLM applications
+- ⚙️ **Business Scale** - Helping businesses scale with intelligent workflows
+- 📺 **Community** - Sharing real-world AI knowledge
 
 <div align="center">
-
-**What We Do:**
-- 🤖 Design and implement AI-driven automation systems
-- 🧠 Develop LLM-powered agents and intelligent workflows
-- ⚙️ Create production-ready ML pipelines for real-world applications
-- 📺 Produce educational content on AI automation and system building
-- 🌐 Build scalable backend services with AI integration
 
 [![Website](https://img.shields.io/badge/Visit-KodeNeurons.tech-6366F1?style=for-the-badge&logo=firefox)](https://www.kodeneurons.tech)
 [![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@KodeNeurons)
 
 </div>
 
+</details>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 🌟 Featured Work
 
-<table>
-<tr>
-<td width="33%">
+<details open>
+<summary><h3>🤖 AI Automation Systems</h3></summary>
 
-### 🤖 AI Automation Systems
 **Enterprise workflow orchestration**
 
 **Features:**
@@ -254,10 +253,11 @@ graph LR
 
 **Stack:** `n8n` `LangChain` `FastAPI` `MongoDB`
 
-</td>
-<td width="33%">
+</details>
 
-### 🧠 LLM Chat Systems
+<details>
+<summary><h3>🧠 LLM Chat Systems</h3></summary>
+
 **Intelligent conversational AI**
 
 **Highlights:**
@@ -268,10 +268,11 @@ graph LR
 
 **Stack:** `LangChain` `Gemini API` `Flask` `PostgreSQL`
 
-</td>
-<td width="33%">
+</details>
 
-### 🔄 ML Engineering
+<details>
+<summary><h3>🔄 ML Engineering</h3></summary>
+
 **Production ML pipelines**
 
 **Achievements:**
@@ -282,27 +283,41 @@ graph LR
 
 **Stack:** `Python` `TensorFlow` `Docker` `FastAPI`
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 📊 GitHub Analytics
 
 <br/>
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nachiket858&theme=tokyonight"
-    alt="GitHub Profile Summary" />
+  <picture>
+    <source media="(min-width: 768px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nachiket858&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nachiket858&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </picture>
 </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiket858&custom_title=Nachiket's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" /> </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(min-width: 768px)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nachiket858&custom_title=Nachiket's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=0D1117&area=true&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiket858&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</div>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 💡 What Drives Me
 
@@ -312,37 +327,31 @@ graph LR
 
 I combine **engineering precision**, **AI innovation**, and **automation expertise** to build technology that matters. From LLM-powered agents to production ML pipelines, I'm always pushing boundaries and solving real-world problems.
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80" />
-<br><b>Production First</b>
-<br><sub>Real users, real reliability</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80" />
-<br><b>Innovation Focused</b>
-<br><sub>Pushing AI boundaries</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80" />
-<br><b>Impact Driven</b>
-<br><sub>Scale intelligently</sub>
-</td>
-</tr>
-</table>
+<br>
+
+### 🎯 My Principles
+
+**Production First** • Real users, real reliability  
+**Innovation Focused** • Pushing AI boundaries  
+**Impact Driven** • Scale intelligently
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</picture>
 
 ## 🤝 Open to Opportunities
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150">
+</picture>
 
 ### 💼 Actively Seeking Roles:
 
@@ -352,38 +361,24 @@ I combine **engineering precision**, **AI innovation**, and **automation experti
 
 I'm looking for opportunities where I can build **production-ready AI systems**, design **intelligent automation workflows**, and deploy **scalable ML solutions** that drive real business impact.
 
+</div>
+
 ---
 
 ### 🌟 Looking For:
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60" />
-<br><b>Full-Time Roles</b>
-<br><sub>AI/ML & Automation Engineering</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" />
-<br><b>Collaborations</b>
-<br><sub>Innovative AI projects</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60" />
-<br><b>Freelance Work</b>
-<br><sub>LLM & automation consulting</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" />
-<br><b>Mentorship</b>
-<br><sub>Learning & growing together</sub>
-</td>
-</tr>
-</table>
+<div align="center">
 
----
+**Full-Time Roles** • AI/ML & Automation Engineering  
+**Collaborations** • Innovative AI projects  
+**Freelance Work** • LLM & automation consulting  
+**Mentorship** • Learning & growing together
+
+<br>
 
 **Let's build intelligent systems together! 🚀**
+
+</div>
 
 ---
 
@@ -403,10 +398,8 @@ I'm looking for opportunities where I can build **production-ready AI systems**,
 
 <br>
 
-**📧 nachiketshinde2004@gmail.com**
+**📧 nachiketshinde2004@gmail.com**  
 **📍 Chhatrapati Sambhajinagar, Maharashtra, India**
-
-</div>
 
 </div>
 
@@ -418,18 +411,14 @@ I'm looking for opportunities where I can build **production-ready AI systems**,
 
 If you find my projects helpful or interesting:
 
-<table align="center">
-<tr>
-<td align="center">⭐ Star my repositories</td>
-<td align="center">📺 Subscribe to YouTube</td>
-<td align="center">🔗 Connect on LinkedIn</td>
-<td align="center">🌐 Visit KodeNeurons</td>
-</tr>
-</table>
+⭐ Star my repositories • 📺 Subscribe to YouTube • 🔗 Connect on LinkedIn • 🌐 Visit KodeNeurons
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+</picture>
 
 <br>
 
@@ -446,4 +435,7 @@ If you find my projects helpful or interesting:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+<picture>
+  <source media="(min-width: 768px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%">
+</picture>
