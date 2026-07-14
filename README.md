@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nachiketshinde2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nachiket-shinde2004)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nachiket.kodeneurons.in)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.kodeneurons.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KodeNeurons)
 
 <img src="https://komarev.com/ghpvc/?username=nachiket-shinde&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
@@ -27,7 +26,6 @@
 🤖 **AI Automation Engineer**  
 🧠 **Machine Learning Engineer**  
 🚀 **LLM Systems Builder**  
-🏢 **Co-Founder** @ KodeNeurons  
 
 I specialize in building **production-ready AI systems** that automate workflows, deploy intelligent agents, and scale reliably. My work focuses on **impact first**, not demos.
 
@@ -36,7 +34,6 @@ class Nachiket:
     def __init__(self):
         self.role = "AI Automation & ML Engineer"
         self.education = "Computer Science & Engineering"
-        self.company = "KodeNeurons (Co-Founder)"
         self.mission = "Automate first. Optimize later. Scale intelligently."
         
     def expertise(self):
@@ -207,7 +204,7 @@ graph LR
 
 <div align="center">
 
-### 🧠 Co-Founder – KodeNeurons
+
 **AI Automation & ML Solutions**
 
 </div>
@@ -224,7 +221,7 @@ graph LR
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Visit-KodeNeurons.tech-6366F1?style=for-the-badge&logo=firefox)](https://www.kodeneurons.in)
+
 [![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@KodeNeurons)
 
 </div>
@@ -393,7 +390,6 @@ I'm looking for opportunities where I can build **production-ready AI systems**,
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nachiketshinde2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nachiket-shinde2004)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nachiket.kodeneurons.in)
-[![Website](https://img.shields.io/badge/Visit%20Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.kodeneurons.in)
 [![YouTube](https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KodeNeurons)
 
 <br>
@@ -423,7 +419,7 @@ If you find my projects helpful or interesting:
 <br>
 
 **Made with ❤️ by Nachiket Shinde**  
-*Co-Founder @ KodeNeurons*
+
 
 <br>
 
